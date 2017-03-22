@@ -1,0 +1,12 @@
+Project: 
+A version of Deal or Not Deal quiz show.
+
+Report
+- clearly written, lots of details on the development of the code 
+
+Code
+- the code slows down in the latest stages for some reason, but otherwise very well done
+- very professional use of Github, although in your private Github account and not in the module account! 
+
+
+Mark: 100
